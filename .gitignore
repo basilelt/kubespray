@@ -98,7 +98,7 @@ target/
 .ipynb_checkpoints
 
 # pyenv
-.python-version
+#.python-version
 
 # dotenv
 .env
@@ -122,3 +122,4 @@ kubernetes_sigs-kubespray*tar.gz
 ansible_collections
 
 .history
+kubespray-venv
