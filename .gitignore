@@ -39,7 +39,7 @@ __pycache__/
 .Python
 env/
 build/
-credentials/
+#credentials/
 develop-eggs/
 dist/
 downloads/
