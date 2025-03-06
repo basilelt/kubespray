@@ -55,5 +55,5 @@
 
 containerd_registry_auth:
   - registry: gitlab.basile.local:5050
-    username: user
-    password: pass
+    username: root
+    password: FY9PrfbdSqDX7Hy9Bw36gkP8nsT97n6N0wJA0O4ocHs=
